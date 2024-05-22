@@ -1,0 +1,6 @@
+commands:
+add username <username>
+add password <password>
+update username <old_username> <new_username>
+update password <old_password> <new_password>
+

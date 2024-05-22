@@ -1,0 +1,14 @@
+# ninja log v5
+295	323	1716295203783248896	untitled	1ece39d04a14a8e9
+1	332	1716293802969719937	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.o	f7e9cbd5738cccec
+1	371	1716293803010543206	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.o	f84bb168a63b8639
+2	1105	1716293803742134669	SQLiteCpp/sqlite3/CMakeFiles/sqlite3.dir/sqlite3.c.o	48a6f092f17ed4c5
+0	82	1716407701725049727	build.ninja	3440bbcd89a12ae3
+1	283	1716293802921903302	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Column.cpp.o	c00c328caf0251cb
+1	168	1716293802805290770	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.o	552a92ffde090bc1
+1	338	1716293802976130716	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Savepoint.cpp.o	b6e15ace7f25170b
+1	353	1716293802991714538	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.o	41c7ce99ce887f96
+2	295	1716295203753723044	CMakeFiles/untitled.dir/main.cpp.o	5f0a808a1a41d08b
+1	354	1716293802993777714	SQLiteCpp/CMakeFiles/SQLiteCpp.dir/src/Database.cpp.o	4c189b51055c6338
+1128	1152	1716293803794188000	SQLiteCpp/libSQLiteCpp.a	3067b467dd69ef3
+1106	1128	1716293803769927000	SQLiteCpp/sqlite3/libsqlite3.a	c14aad008e55dd80
